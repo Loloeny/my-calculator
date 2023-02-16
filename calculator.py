@@ -14,3 +14,4 @@ elif choice == 3:
     a = int(input("Enter the first number: "))
     b = int(input("Enter the second number: "))
     print("Result:", sub(a, b))
+#it's my pow2 function dude
